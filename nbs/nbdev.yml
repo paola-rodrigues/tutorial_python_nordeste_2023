@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "paola_rodrigues_pacote"
+  site-url: "https://paola-rodrigues.github.io/tutorial_python_nordeste_2023"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/paola-rodrigues/tutorial_python_nordeste_2023"
